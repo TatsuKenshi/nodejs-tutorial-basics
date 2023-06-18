@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-tutorial-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatsuKenshi/nodejs-tutorial-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatsuKenshi/nodejs-tutorial-basics/issues"
+  },
+  "homepage": "https://github.com/TatsuKenshi/nodejs-tutorial-basics#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "lodash": "^4.17.21"
+  }
+}
