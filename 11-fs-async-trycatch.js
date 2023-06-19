@@ -27,3 +27,6 @@ const start = async () => {
 };
 
 start();
+
+// commented code uses the util library
+// active code uses require("fs").promises
